@@ -1,4 +1,5 @@
-### Hi👋
+### Hello :) I'm Jia Yoon. I am majoring in computer science at Seoul Tech. Thank you for visiting this page.
+
 
 <!--
 **JIAYOOON/jiayooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
