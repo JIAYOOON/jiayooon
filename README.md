@@ -1,4 +1,4 @@
-### Hello :) I'm <h1>Jia Yoon</h1>. I am majoring in computer science at Seoul Tech. Thank you for visiting this page.
+### Hello :) My name is <h2>Jia Yoon</h2>. I am majoring in <h4>computer science</h4> at Seoul Tech. Thank you for visiting this page.
 
 
 <!--
