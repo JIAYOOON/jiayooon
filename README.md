@@ -27,4 +27,4 @@ Computer가 1-10 사이의 숫자 중 하나를 랜덤으로 선택합니다.
 
 --------------------
 ## 실행화면 예시
-![ex](https://user-images.githubusercontent.com/113532368/206907487-d04c4a6d-b6eb-4c0c-9739-01b44bbd4bc6.png)
+![ex](https://user-images.githubusercontent.com/113532368/206908841-fdd68e1d-904d-4543-a642-266ec1997c06.png)
