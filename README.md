@@ -2,10 +2,12 @@
 --------------------
 ## Introduction
 1~n 범위에서 랜덤으로 선택된 숫자를 추측하는 게임입니다.
+
 --------------------
 ## How to play
 정답이 아닌 숫자를 입력할 경우, 점수가 깎이고 단서를 얻습니다.
 3번의 기회가 주어집니다.
+
 --------------------
 ## Details
 
@@ -22,6 +24,7 @@ Computer가 1-10 사이의 숫자 중 하나를 랜덤으로 생성합니다.
 
 [Step4]
 점수가 높다면 Best player로 선정됩니다.
+
 --------------------
 ## 실행화면 예시
-![ex](https://user-images.githubusercontent.com/113532368/206907373-118838d7-8dbb-4ae0-862b-0a0aba4c69f5.png)
+![ex](https://user-images.githubusercontent.com/113532368/206907487-d04c4a6d-b6eb-4c0c-9739-01b44bbd4bc6.png)
