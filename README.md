@@ -24,4 +24,4 @@ Computer가 1-10 사이의 숫자 중 하나를 랜덤으로 생성합니다.
 점수가 높다면 Best player로 선정됩니다.
 --------------------
 ## 실행화면 예시
-
+![ex](https://user-images.githubusercontent.com/113532368/206907373-118838d7-8dbb-4ae0-862b-0a0aba4c69f5.png)
